@@ -11,7 +11,7 @@
         -LL   perform four-component calculations with Lévy-Leblond Hamiltonian
 
 
-4cDCCCSDQTAIM.py
+4cDCCCSDQTAIMDENS.py
 
     This script performs a four-component electron density calculation on a three-dimensional grid of points. The density is derived from a CCSD wave function generated with the Dirac-Coulomb and Lévy-Leblond Hamiltonians, incorporating a Gaussian finite-nucleus model.
 
