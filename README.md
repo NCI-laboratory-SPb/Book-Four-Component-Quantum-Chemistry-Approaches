@@ -1,6 +1,6 @@
 4cDCCCSDCBSRovibConstants.py
 
-    This script performs relativistic calculations of vibrational frequencies and rotational constants for linear molecules at the four-component SR-RCCSD(T)/CBS level of theory, using a Gaussian nuclear charge distribution.
+    This script performs relativistic calculations of vibrational frequencies and rotational constants for linear tops at the four-component SR-RCCSD(T)/CBS level of theory, using a Gaussian nuclear charge distribution.
 
     Usage (e.g. for total charge 0):
         4cDCCCSDQTAIM.py molecule.xyz [-DC | -LL] -q 0
