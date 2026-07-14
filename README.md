@@ -26,6 +26,6 @@
     Required keys:
         -DC             perform four-component calculations with Dirac-Coulomb Hamiltonian
         -LL             perform four-component calculations with Lévy-Leblond Hamiltonian
-        -dyall.BASIS    Expansion of the large and small components of one-electron bispinors in terms of a chosen uncontracted basis set of the Dyall family)
+        -dyall.BASIS    expansion of the large and small components of one-electron bispinors in terms of a chosen uncontracted basis set of the Dyall family)
 
 
