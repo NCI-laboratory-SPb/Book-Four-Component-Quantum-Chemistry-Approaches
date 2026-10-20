@@ -1,3 +1,5 @@
+Scripts for relativistic simulations within the four-component coupled-cluster framework with Dirac-Coulomb and Lévy-Leblond Hamiltonians, interfaced with DIRAC, can be found in this repository. These scripts are used in the concluding chapter of the book «Four-Component Quantum Chemistry Approaches».
+
 4cDCCCSDCBSRovibConstants.py
 
     This script performs relativistic calculations of vibrational frequencies and rotational constants for linear tops at the four-component SR-RCCSD(T)/CBS level of theory, using a Gaussian nuclear charge distribution.
