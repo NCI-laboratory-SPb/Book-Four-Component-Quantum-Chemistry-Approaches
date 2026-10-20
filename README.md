@@ -11,12 +11,12 @@
         -LL   perform four-component calculations with Lévy-Leblond Hamiltonian
 
 
-4cDCCCSDQTAIMDENS.py
+4cDCCCSDDENSGEN.py
 
     This script performs a four-component electron density calculation on a three-dimensional grid of points. The density is derived from a CCSD wave function generated with the Dirac-Coulomb and Lévy-Leblond Hamiltonians, incorporating a Gaussian finite-nucleus model.
 
     Usage (e.g. for total charge 0):
-        4cDCCCSDQTAIM.py molecule.xyz [-DC | -LL] -dyall.BASIS -q 0
+        4cDCCCSDDENSGEN.py molecule.xyz [-DC | -LL] -dyall.BASIS -q 0
 
     BASIS can be any of the Dyall basis sets:
         v2z, cv2z, ae2z, av2z, acv2z, aae2z
