@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-4cDCCCSDQTAIM.py by Daniil A. Shitov
+4cDCCCSDDENSGEN.py by Daniil A. Shitov
 
 Generates cube file and CSV table with electron density for linear triatomic
 molecules Y–X–Y based on four-component CCSD calculations with the DIRAC program
